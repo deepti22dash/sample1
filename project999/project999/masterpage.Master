@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="masterpage.master.cs" Inherits="project999.masterpage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div style="text-align: center; color: #000099; font-weight: 700; background-color: #00CCFF">
+        OUR SOALAR SYSTEM</div>
+        <asp:HyperLink ID="HyperLink1" runat="server" ForeColor="#FF0066">Signup</asp:HyperLink>
+        <asp:HyperLink ID="HyperLink2" runat="server" ForeColor="#FF0066">Login</asp:HyperLink>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </form>
+    <p>
+        @copyrightdash07</p>
+</body>
+</html>

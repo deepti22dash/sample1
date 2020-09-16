@@ -1,0 +1,2 @@
+E:\CD\deepti1\calculator1001\calculator1001\obj\Debug\calculator1001.csprojAssemblyReference.cache
+E:\CD\deepti1\calculator1001\calculator1001\obj\Debug\calculator1001.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+E:\CD\deepti1\ConsoleAppFactorial\ConsoleAppFactorial\bin\Debug\ConsoleAppFactorial.exe.config
+E:\CD\deepti1\ConsoleAppFactorial\ConsoleAppFactorial\bin\Debug\ConsoleAppFactorial.exe
+E:\CD\deepti1\ConsoleAppFactorial\ConsoleAppFactorial\bin\Debug\ConsoleAppFactorial.pdb
+E:\CD\deepti1\ConsoleAppFactorial\ConsoleAppFactorial\bin\Debug\ClasslibraryFact.dll
+E:\CD\deepti1\ConsoleAppFactorial\ConsoleAppFactorial\bin\Debug\ClasslibraryFact.pdb
+E:\CD\deepti1\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\ConsoleAppFactorial.csprojAssemblyReference.cache
+E:\CD\deepti1\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\ConsoleAppFactorial.csproj.CoreCompileInputs.cache
+E:\CD\deepti1\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\ConsoleAppFactorial.csproj.CopyComplete
+E:\CD\deepti1\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\ConsoleAppFactorial.exe
+E:\CD\deepti1\ConsoleAppFactorial\ConsoleAppFactorial\obj\Debug\ConsoleAppFactorial.pdb

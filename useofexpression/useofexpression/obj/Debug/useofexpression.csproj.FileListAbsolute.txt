@@ -1,0 +1,7 @@
+E:\CD\deepti1\useofexpression\useofexpression\bin\Debug\useofexpression.exe.config
+E:\CD\deepti1\useofexpression\useofexpression\bin\Debug\useofexpression.exe
+E:\CD\deepti1\useofexpression\useofexpression\bin\Debug\useofexpression.pdb
+E:\CD\deepti1\useofexpression\useofexpression\obj\Debug\useofexpression.csproj.CoreCompileInputs.cache
+E:\CD\deepti1\useofexpression\useofexpression\obj\Debug\useofexpression.exe
+E:\CD\deepti1\useofexpression\useofexpression\obj\Debug\useofexpression.pdb
+E:\CD\deepti1\useofexpression\useofexpression\obj\Debug\useofexpression.csprojAssemblyReference.cache
